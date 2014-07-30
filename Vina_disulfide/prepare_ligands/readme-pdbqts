@@ -1,0 +1,13 @@
+# depends on MGLTools python and script (prepare_ligand4.py), which is run in the current directory.  
+# shell commands used...
+
+/Library/MGLTools/latest/bin/pythonsh prepare_ligand4.py -l structures/GSHgSG.pdb -A bonds_hydrogens
+/Library/MGLTools/latest/bin/pythonsh prepare_ligand4.py -l structures/GSSG.pdb -A bonds_hydrogens
+/Library/MGLTools/latest/bin/pythonsh prepare_ligand4.py -l structures/cystamine.pdb -A bonds_hydrogens
+/Library/MGLTools/latest/bin/pythonsh prepare_ligand4.py -l structures/Hgcystamine.pdb -A bonds_hydrogens
+/Library/MGLTools/latest/bin/pythonsh prepare_ligand4.py -l structures/2-MPA-SHgS.pdb -A bonds_hydrogens
+mv *.pdbqt pdbqts/
+# let's fix one
+# GSSG_90.pdbqt 0 1 are the two SG
+/Library/MGLTools/latest/bin/pythonsh prepare_ligand4.py -l pdbqts/GSSG_90.pdbqt -I 0_1
+mv GSSG_90.pdbqt pdbqts/GSSG_90f.pdbqt

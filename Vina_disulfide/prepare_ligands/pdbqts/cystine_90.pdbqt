@@ -1,0 +1,58 @@
+REMARK  11 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CA_1  and  N_2 
+REMARK    2  A    between atoms: CA_1  and  CB_3 
+REMARK    3  A    between atoms: CA_1  and  C_12 
+REMARK    4  A    between atoms: CB_3  and  SG_4 
+REMARK    5  A    between atoms: SG_4  and  SG_5 
+REMARK    6  A    between atoms: SG_5  and  CB_6 
+REMARK    7  A    between atoms: CB_6  and  CA_7 
+REMARK    8  A    between atoms: CA_7  and  C_9 
+REMARK    9  A    between atoms: CA_7  and  N_8 
+REMARK   10  A    between atoms: C_9  and  O_10 
+REMARK   11  A    between atoms: C_12  and  O_13 
+ROOT
+ATOM      1  SG  CYS A   1      -1.223  -0.376  -8.942  1.00  0.00    -0.095 SA
+ENDROOT
+BRANCH   1   2
+ATOM      2  CB  CYS A   1      -2.596   0.606  -9.649  1.00  0.00     0.132 C 
+BRANCH   2   3
+ATOM      3  CA  CYS A   1      -2.146   1.911 -10.303  1.00  0.00     0.324 C 
+BRANCH   3   4
+ATOM      4  N   CYS A   1      -1.185   1.682 -11.415  1.00  0.00     0.094 N 
+ATOM      5  H1  CYS A   1      -0.371   1.195 -11.032  1.00  0.00     0.314 HD
+ATOM      6  H2  CYS A   1      -0.826   2.600 -11.693  1.00  0.00     0.314 HD
+ENDBRANCH   3   4
+BRANCH   3   7
+ATOM      7  C   CYS A   1      -1.586   2.870  -9.251  1.00  0.00     0.174 C 
+ATOM      8  OXT CYS A   1      -1.958   2.984  -8.098  1.00  0.00    -0.648 OA
+BRANCH   7   9
+ATOM      9  O   CYS A   1      -0.622   3.684  -9.737  1.00  0.00    -0.775 OA
+ATOM     10  H   CYS A   1      -0.376   4.229  -8.960  1.00  0.00     0.167 HD
+ENDBRANCH   7   9
+ENDBRANCH   3   7
+ENDBRANCH   2   3
+ENDBRANCH   1   2
+BRANCH   1  11
+ATOM     11  SG  CYS A   1      -2.270  -1.946  -8.131  1.00  0.00    -0.095 SA
+BRANCH  11  12
+ATOM     12  CB  CYS A   1      -2.321  -3.146  -9.514  1.00  0.00     0.132 C 
+BRANCH  12  13
+ATOM     13  CA  CYS A   1      -0.977  -3.567 -10.121  1.00  0.00     0.324 C 
+BRANCH  13  14
+ATOM     14  C   CYS A   1      -0.091  -4.329  -9.120  1.00  0.00     0.174 C 
+ATOM     15  OXT CYS A   1      -0.038  -4.210  -7.921  1.00  0.00    -0.648 OA
+BRANCH  14  16
+ATOM     16  O   CYS A   1       0.734  -5.206  -9.734  1.00  0.00    -0.775 OA
+ATOM     17  H   CYS A   1       1.236  -5.593  -8.984  1.00  0.00     0.167 HD
+ENDBRANCH  14  16
+ENDBRANCH  13  14
+BRANCH  13  18
+ATOM     18  N   CYS A   1      -1.244  -4.432 -11.312  1.00  0.00     0.094 N 
+ATOM     19  H2  CYS A   1      -1.740  -5.267 -10.994  1.00  0.00     0.314 HD
+ATOM     20  H1  CYS A   1      -0.332  -4.790 -11.616  1.00  0.00     0.314 HD
+ENDBRANCH  13  18
+ENDBRANCH  12  13
+ENDBRANCH  11  12
+ENDBRANCH   1  11
+TORSDOF 11

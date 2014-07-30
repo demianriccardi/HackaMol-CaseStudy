@@ -1,0 +1,40 @@
+use Modern::Perl;
+
+my @bads = qw(
+1CRU
+1F39
+1I39
+1L2Q
+1M21
+1O81
+1PCM
+1PJ0
+1R26
+1SP8
+1V98
+1X23
+2B7K
+2C6Q
+2B9V
+2F9S
+2FA8
+2FR2
+2FNA
+2FWG
+2I1U
+2PU9
+2WAA
+3GMI
+3GNJ
+3GRH
+3IA1
+3OUI
+3S9F
+3U7H
+3VFI
+4AF1
+4BQH
+4KH9
+);
+
+unlink("$_.pdb") foreach @bads;
