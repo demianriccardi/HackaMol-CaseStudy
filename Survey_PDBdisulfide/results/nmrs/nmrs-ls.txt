@@ -1,0 +1,5 @@
+total 59160
+-rw-r--r--  1 dde  ORNL\Domain Users         0 Jul 30 16:06 nmrs-ls.txt
+-rw-r--r--  1 dde  ORNL\Domain Users  17261348 Jul 25 13:40 nmrs_dihedrals_dses.yaml
+-rw-r--r--  1 dde  ORNL\Domain Users  12964631 Jul 25 13:40 nmrs_distances_angles.yaml
+-rw-r--r--  1 dde  ORNL\Domain Users     53775 Jul 25 13:40 nmrs_intra_inter.yaml

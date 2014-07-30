@@ -1,0 +1,54 @@
+use Modern::Perl;
+use YAML::XS qw(LoadFile Dump);
+use List::Util qw(max min sum);
+use Math::SimpleHisto::XS;
+
+my $type = shift or die "pass type: xtals nmrs";
+my $yaml = LoadFile ("$type/$type\_dihedrals_dses.yaml");
+
+my $nbin = 50;
+my $min  = 0;
+my $max  = 20;
+
+my @chi3;
+my @chi2;
+my @chi1;
+my @total;
+
+foreach my $cluster (keys %$yaml){
+  foreach my $t (@{$yaml->{$cluster}}){
+    push @chi3,  $t->{dse}{chi3};
+    push @chi2,  $t->{dse}{chi2};
+    push @chi1,  $t->{dse}{chi1};
+    push @total, $t->{dse}{total};
+  }
+}
+
+
+my $df = ($max-$min)/ $nbin;
+
+my $cnt = 4;
+foreach my $dihe (\@total,\@chi3,\@chi2,\@chi1){
+  say "BEGIN chi$cnt";
+  my $hist = Math::SimpleHisto::XS->new(
+          bins => [ map{ $min + $df*$_ } (0 .. $nbin)],
+  );
+
+  $hist->fill($dihe);
+  $hist->normalize($hist->total/scalar(@$dihe));
+  my $data_bins   = $hist->all_bin_contents;
+  my $bin_centers = $hist->bin_centers;
+
+  my $sum = 0;
+  foreach my $i (0 .. $#{$data_bins}){
+    $sum += $data_bins->[$i];
+    #printf ("%10.4f\n", $data_bins->[$i]);
+    printf ("%10.4f %10.4f\n", $bin_centers->[$i], $data_bins->[$i]);
+  }
+
+  say "\n\nsum: $sum\n";
+  say "mean: ".$hist->mean."\n";
+  say "END chi$cnt";
+  $cnt--;
+  
+}

@@ -1,0 +1,257 @@
+BAD t->1 PDB Atom 11 serial 12 resname GLU has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 11 serial 12 resname GLU has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 11 serial 12 resname GLU has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 11 serial 12 resname GLU has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 11 serial 12 resname GLU has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 11 serial 12 resname GLU has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 11 serial 12 resname GLU has changed at scripts/extract_clusters.pl line 22.
+BAD t->3 PDB Atom 11 serial 12 resname GLU has changed at scripts/extract_clusters.pl line 22.
+BAD t->3 PDB Atom 11 serial 12 resname GLU has changed at scripts/extract_clusters.pl line 22.
+BAD t->3 PDB Atom 11 serial 12 resname GLU has changed at scripts/extract_clusters.pl line 22.
+BAD t->4 PDB Atom 11 serial 12 resname GLU has changed at scripts/extract_clusters.pl line 22.
+BAD t->4 PDB Atom 11 serial 12 resname GLU has changed at scripts/extract_clusters.pl line 22.
+BAD t->4 PDB Atom 11 serial 12 resname GLU has changed at scripts/extract_clusters.pl line 22.
+BAD t->6 PDB Atom 11 serial 12 resname GLU has changed at scripts/extract_clusters.pl line 22.
+1F3R has no disulfide bonds
+BAD t->1 PDB Atom 351 serial 352 resname ALA has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 351 serial 352 resname ALA has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 351 serial 352 resname ALA has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 351 serial 352 resname ALA has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 351 serial 352 resname ALA has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 351 serial 352 resname ALA has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 351 serial 352 resname ALA has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 351 serial 352 resname ALA has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 351 serial 352 resname ALA has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 351 serial 352 resname ALA has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 351 serial 352 resname ALA has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 351 serial 352 resname ALA has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 351 serial 352 resname ALA has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 351 serial 352 resname ALA has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 351 serial 352 resname ALA has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 351 serial 352 resname ALA has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 351 serial 352 resname ALA has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 351 serial 352 resname ALA has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 351 serial 352 resname ALA has changed at scripts/extract_clusters.pl line 22.
+1IP0 has no disulfide bonds
+1JJJ has no disulfide bonds
+1K36 has no disulfide bonds
+BAD t->14 PDB Atom 815 serial 816 resname ARG has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 5 serial 6 resname ALA has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 5 serial 6 resname ALA has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 5 serial 6 resname ALA has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 5 serial 6 resname ALA has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 5 serial 6 resname ALA has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 5 serial 6 resname ALA has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 5 serial 6 resname ALA has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 5 serial 6 resname ALA has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 5 serial 6 resname ALA has changed at scripts/extract_clusters.pl line 22.
+BAD t->3 PDB Atom 1275 serial 1276 resname ALA has changed at scripts/extract_clusters.pl line 22.
+BAD t->5 PDB Atom 1070 serial 1071 resname GLU has changed at scripts/extract_clusters.pl line 22.
+BAD t->5 PDB Atom 78 serial 79 resname GLU has changed at scripts/extract_clusters.pl line 22.
+BAD t->5 PDB Atom 48 serial 49 resname GLU has changed at scripts/extract_clusters.pl line 22.
+BAD t->5 PDB Atom 1070 serial 1071 resname GLU has changed at scripts/extract_clusters.pl line 22.
+BAD t->22 PDB Atom 78 serial 79 resname GLU has changed at scripts/extract_clusters.pl line 22.
+BAD t->27 PDB Atom 1070 serial 1071 resname GLU has changed at scripts/extract_clusters.pl line 22.
+BAD t->19 PDB Atom 128 serial 129 resname CYS has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 659 serial 660 resname HIS has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 354 serial 355 resname HIS has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 659 serial 660 resname HIS has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 659 serial 660 resname HIS has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 659 serial 660 resname HIS has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 1127 serial 1128 resname HIS has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 659 serial 660 resname HIS has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 659 serial 660 resname HIS has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 659 serial 660 resname HIS has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 659 serial 660 resname HIS has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 659 serial 660 resname HIS has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 659 serial 660 resname HIS has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 659 serial 660 resname HIS has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 659 serial 660 resname HIS has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 354 serial 355 resname HIS has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 354 serial 355 resname HIS has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 659 serial 660 resname HIS has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 354 serial 355 resname HIS has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 354 serial 355 resname HIS has changed at scripts/extract_clusters.pl line 22.
+1TVS has no disulfide bonds
+1Z2K has no disulfide bonds
+BAD t->1 PDB Atom 6 serial 7 resname CYS has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 6 serial 7 resname CYS has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 6 serial 7 resname CYS has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 6 serial 7 resname CYS has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 6 serial 7 resname CYS has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 6 serial 7 resname CYS has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 6 serial 7 resname CYS has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 6 serial 7 resname CYS has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 6 serial 7 resname CYS has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 6 serial 7 resname CYS has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 6 serial 7 resname CYS has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 6 serial 7 resname CYS has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 6 serial 7 resname CYS has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 6 serial 7 resname CYS has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 6 serial 7 resname CYS has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 6 serial 7 resname CYS has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 6 serial 7 resname CYS has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 6 serial 7 resname CYS has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 6 serial 7 resname CYS has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 6 serial 7 resname CYS has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 6 serial 7 resname CYS has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 6 serial 7 resname CYS has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 6 serial 7 resname CYS has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 6 serial 7 resname CYS has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 6 serial 7 resname CYS has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 6 serial 7 resname CYS has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 6 serial 7 resname CYS has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 6 serial 7 resname CYS has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 6 serial 7 resname CYS has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 6 serial 7 resname CYS has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 6 serial 7 resname CYS has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 6 serial 7 resname CYS has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 6 serial 7 resname CYS has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 6 serial 7 resname CYS has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 6 serial 7 resname CYS has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 6 serial 7 resname CYS has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 6 serial 7 resname CYS has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 6 serial 7 resname CYS has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 6 serial 7 resname CYS has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 6 serial 7 resname CYS has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 6 serial 7 resname CYS has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 6 serial 7 resname CYS has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 6 serial 7 resname CYS has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 6 serial 7 resname CYS has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 6 serial 7 resname CYS has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 6 serial 7 resname CYS has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 6 serial 7 resname CYS has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 6 serial 7 resname CYS has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 6 serial 7 resname CYS has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 6 serial 7 resname CYS has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 6 serial 7 resname CYS has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 6 serial 7 resname CYS has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 6 serial 7 resname CYS has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 6 serial 7 resname CYS has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 6 serial 7 resname CYS has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 6 serial 7 resname CYS has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 6 serial 7 resname CYS has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 6 serial 7 resname CYS has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 6 serial 7 resname CYS has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 6 serial 7 resname CYS has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 6 serial 7 resname CYS has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 6 serial 7 resname CYS has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 6 serial 7 resname CYS has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 6 serial 7 resname CYS has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 6 serial 7 resname CYS has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 6 serial 7 resname CYS has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 6 serial 7 resname CYS has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 6 serial 7 resname CYS has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 6 serial 7 resname CYS has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 6 serial 7 resname CYS has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 6 serial 7 resname CYS has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 6 serial 7 resname CYS has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 6 serial 7 resname CYS has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 6 serial 7 resname CYS has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 6 serial 7 resname CYS has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 6 serial 7 resname CYS has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 6 serial 7 resname CYS has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 6 serial 7 resname CYS has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 6 serial 7 resname CYS has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 6 serial 7 resname CYS has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 6 serial 7 resname CYS has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 6 serial 7 resname CYS has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 6 serial 7 resname CYS has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 6 serial 7 resname CYS has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 6 serial 7 resname CYS has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 6 serial 7 resname CYS has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 6 serial 7 resname CYS has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 6 serial 7 resname CYS has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 6 serial 7 resname CYS has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 6 serial 7 resname CYS has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 6 serial 7 resname CYS has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 6 serial 7 resname CYS has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 6 serial 7 resname CYS has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 6 serial 7 resname CYS has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 6 serial 7 resname CYS has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 6 serial 7 resname CYS has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 6 serial 7 resname CYS has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 6 serial 7 resname CYS has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 6 serial 7 resname CYS has changed at scripts/extract_clusters.pl line 22.
+BAD t->20 PDB Atom 30 serial 31 resname CYS has changed at scripts/extract_clusters.pl line 22.
+BAD t->13 PDB Atom 720 serial 721 resname TYR has changed at scripts/extract_clusters.pl line 22.
+2JOO has no disulfide bonds
+2JS7 has no disulfide bonds
+2JVU has no disulfide bonds
+2JYP has no disulfide bonds
+2KGH has no disulfide bonds
+2KEM has no disulfide bonds
+2KIZ has no disulfide bonds
+2KJH has no disulfide bonds
+2KPH has no disulfide bonds
+2KR1 has no disulfide bonds
+2KUO has no disulfide bonds
+2KVH has no disulfide bonds
+2KV1 has no disulfide bonds
+BAD t->1 PDB Atom 1249 serial 1250 resname GLU has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 1249 serial 1250 resname GLU has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 1249 serial 1250 resname GLU has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 1249 serial 1250 resname GLU has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 1249 serial 1250 resname GLU has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 1249 serial 1250 resname GLU has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 1249 serial 1250 resname GLU has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 1249 serial 1250 resname GLU has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 1249 serial 1250 resname GLU has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 1249 serial 1250 resname GLU has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 1249 serial 1250 resname GLU has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 1249 serial 1250 resname GLU has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 1249 serial 1250 resname GLU has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 1249 serial 1250 resname GLU has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 1249 serial 1250 resname GLU has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 1249 serial 1250 resname GLU has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 1249 serial 1250 resname GLU has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 1249 serial 1250 resname GLU has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 1249 serial 1250 resname GLU has changed at scripts/extract_clusters.pl line 22.
+2L2C has no disulfide bonds
+2LIY has no disulfide bonds
+2LWL has no disulfide bonds
+2M3B has no disulfide bonds
+2M9W has no disulfide bonds
+2MIQ has no disulfide bonds
+2ODX has no disulfide bonds
+2RMN has no disulfide bonds
+2M8N has no disulfide bonds
+BAD t->19 PDB Atom 301 serial 302 resname NH2 has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 829 serial 830 resname PHE has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 609 serial 610 resname PHE has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 400 serial 401 resname TYR has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 525 serial 526 resname PHE has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 400 serial 401 resname TYR has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 400 serial 401 resname TYR has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 1304 serial 1305 resname TYR has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 400 serial 401 resname TYR has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 400 serial 401 resname TYR has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 1093 serial 1094 resname LEU has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 751 serial 752 resname TYR has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 400 serial 401 resname TYR has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 400 serial 401 resname TYR has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 751 serial 752 resname TYR has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 609 serial 610 resname PHE has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 789 serial 790 resname PHE has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 751 serial 752 resname TYR has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 525 serial 526 resname PHE has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 400 serial 401 resname TYR has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 1304 serial 1305 resname TYR has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 440 serial 441 resname TYR has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 440 serial 441 resname TYR has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 199 serial 200 resname TYR has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 381 serial 382 resname TYR has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 199 serial 200 resname TYR has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 381 serial 382 resname TYR has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 381 serial 382 resname TYR has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 440 serial 441 resname TYR has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 199 serial 200 resname TYR has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 381 serial 382 resname TYR has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 199 serial 200 resname TYR has changed at scripts/extract_clusters.pl line 22.
+BAD t->1 PDB Atom 199 serial 200 resname TYR has changed at scripts/extract_clusters.pl line 22.
+BAD t->2 PDB Atom 199 serial 200 resname TYR has changed at scripts/extract_clusters.pl line 22.
+BAD t->2 PDB Atom 461 serial 462 resname TYR has changed at scripts/extract_clusters.pl line 22.
+BAD t->2 PDB Atom 199 serial 200 resname TYR has changed at scripts/extract_clusters.pl line 22.
+BAD t->3 PDB Atom 381 serial 382 resname TYR has changed at scripts/extract_clusters.pl line 22.
+calculation time:      156.4
+
