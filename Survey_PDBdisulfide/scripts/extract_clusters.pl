@@ -2,7 +2,7 @@
 # Copyright (C) 2014  Demian Riccardi <demianriccardi@gmail.com>
 use Modern::Perl;
 use HackaMol;
-use MCE::Loop max_workers => 8, chunk_size => 1;
+use MCE::Loop max_workers => 4, chunk_size => 1;
 use MCE::Subs qw( :worker );
 use Time::HiRes qw(time);
 
@@ -82,7 +82,7 @@ mce_loop_s {
         my $fh = $mol->print_pdb_ts([0 .. $mol->tmax], $fname . "_$i.pdb" );
         $i++;
     }
-}0 , $#pdbs;
+} 0 , $#pdbs;
 
 my $t2 = time;
 

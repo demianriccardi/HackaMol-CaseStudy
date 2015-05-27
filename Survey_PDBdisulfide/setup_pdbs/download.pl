@@ -29,6 +29,6 @@ $CWD = $type;
 
 foreach my $pdbid (@sync_list){
   say ("wget http://pdb.org/pdb/files/$pdbid.pdb"); 
-  #system ("wget http://pdb.org/pdb/files/$pdbid.pdb"); 
+  system ("wget http://pdb.org/pdb/files/$pdbid.pdb"); 
 }
 
